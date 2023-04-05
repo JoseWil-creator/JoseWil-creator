@@ -24,11 +24,6 @@ Why software developer? Ever since I got my first laptop, I've been amazed with 
 <img align="left" alt="Java" width="30xp" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 <img align="left" alt="Java" width="30xp" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"/>
 <img align="left" alt="Java" width="30xp" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"/>
-<img align="left" alt="Java" width="30xp" style="padding-right:10px;" />
-<img align="left" alt="Java" width="30xp" style="padding-right:10px;" />
-<img align="left" alt="Java" width="30xp" style="padding-right:10px;" />
-<img align="left" alt="Java" width="30xp" style="padding-right:10px;" />
-<img align="left" alt="Java" width="30xp" style="padding-right:10px;" />
 
           
           
