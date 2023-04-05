@@ -2,7 +2,7 @@
 **Software Craftsman**
 
 
-I am a software developer/software engineer graduating with a BS in Computer Science with a Minor in Mathematics. Below are all my coding projects throughtout time to solve assigments and solve real-life problems.
+I am a software developer/software engineer graduating with a BS in Computer Science with a Minor in Mathematics. Below are all my coding projects throughtout time to solve assigments and real-life problems.
 Why software developer? Ever since I got my first laptop, I've been amazed with its extensive capabalities to create anything we can conceptualize. I am lookign forward to make professional impact in the software industry!
 
 ### Languages and Tools
