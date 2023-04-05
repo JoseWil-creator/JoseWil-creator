@@ -7,7 +7,13 @@ Why software developer? Ever since I got my first laptop, I've been amazed with 
 
 ### Languages and Tools
 <img align="left" alt="Java" width="30xp" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" />
           
+          
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
